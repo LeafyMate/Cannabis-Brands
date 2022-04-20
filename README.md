@@ -5,7 +5,6 @@
 # Cannabis Brands
 
 [![Total Downloads](https://poser.pugx.org/leafymate/cannabis-brands/d/total.svg)](https://packagist.org/packages/leafymate/cannabis-brands)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/leafymate/cannabis-brands/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/leafymate/cannabis-brands/?branch=master)
 [![License](https://poser.pugx.org/leafymate/cannabis-brands/license.svg)](https://packagist.org/packages/leafymate/cannabis-brands)
 
 :star: Star us on GitHub — it motivates us a lot!
