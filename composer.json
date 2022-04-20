@@ -1,0 +1,16 @@
+{
+    "name": "LeafyMate/Cannabis-Brands",
+    "description": "A collection of cannabis brands",
+    "keywords": ["cannabis", "marijuana", "cannabis brands", "marijuana brands", "cannabis marketplace", "marijuana marketplace", "cannabis portal", "marijuana portal"],
+	"homepage": "https://leafymate.com",
+    "license": "LGPL-3.0-or-later",
+    "support": {
+		"source": "https://github.com/leafymate/cannabis-brands",
+		"issues": "https://github.com/leafymate/cannabis-brands/issues",
+		"website": "https://leafymate.com/cannabis-brands",
+		"resources": "https://leafymate.com/resources/"
+	},
+    "require": {
+        "php": ">=8.1"
+    }
+}
